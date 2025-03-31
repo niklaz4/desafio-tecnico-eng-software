@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "7459407c-30b2-44a3-96b3-6f1c887e8a7a",
+		"name": "operadoras API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33884837"
+	},
+	"item": [
+		{
+			"name": "buscar-operadoras",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/operadoras/buscar?q=alice",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"operadoras",
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "alice"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

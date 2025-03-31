@@ -1,4 +1,4 @@
-# Desafio Técnico - TESTES DE NIVELAMENTO v.250321
+# Desafio Técnico - TESTES DE NIVELAMENTO 
 
 Este repositório contém os testes técnicos solicitados, divididos em quatro partes principais:
 
